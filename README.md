@@ -18,8 +18,8 @@ This project involves the following steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine.
     ```bash
-    git clone https://github.com/your-username/hotel-revenue-analysis.git
-    cd hotel-revenue-analysis
+    git clone https://github.com/desertCoder-bot/Hotel_revenue_analysis-using-python.git
+    cd Hotel_revenue_analysis-using-python
     ```
 
 2. **Install Dependencies**: Make sure you have the necessary libraries installed.
